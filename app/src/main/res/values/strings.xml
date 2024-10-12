@@ -1,0 +1,15 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">proyecto</string>
+        <!-- Textos para el formulario en activity_main.xml -->
+        <string name="hint_name">Nombre Completo</string>
+        <string name="hint_phone">Teléfono</string>
+        <string name="hint_email">Email</string>
+        <string name="hint_description">Descripción del contacto</string>
+        <string name="birth_date_button_text">Seleccionar Fecha de Nacimiento</string>
+        <string name="next_button_text">Siguiente</string>
+        <string name="desc_birth_date_button">Botón para seleccionar la fecha de nacimiento</string>
+        <string name="confirm_screen_title">Confirmar Datos</string>
+        <string name="edit_button_text">Editar datos</string>
+
+
+    </resources>
